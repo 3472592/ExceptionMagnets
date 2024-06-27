@@ -1,0 +1,7 @@
+C:\Users\Liberty Fox User\Desktop\C#\Ch12\ExceptionMagnets\ExceptionMagnets\bin\Debug\ExceptionMagnets.exe.config
+C:\Users\Liberty Fox User\Desktop\C#\Ch12\ExceptionMagnets\ExceptionMagnets\bin\Debug\ExceptionMagnets.exe
+C:\Users\Liberty Fox User\Desktop\C#\Ch12\ExceptionMagnets\ExceptionMagnets\bin\Debug\ExceptionMagnets.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Ch12\ExceptionMagnets\ExceptionMagnets\obj\Debug\ExceptionMagnets.csproj.AssemblyReference.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch12\ExceptionMagnets\ExceptionMagnets\obj\Debug\ExceptionMagnets.csproj.CoreCompileInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch12\ExceptionMagnets\ExceptionMagnets\obj\Debug\ExceptionMagnets.exe
+C:\Users\Liberty Fox User\Desktop\C#\Ch12\ExceptionMagnets\ExceptionMagnets\obj\Debug\ExceptionMagnets.pdb
